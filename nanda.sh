@@ -1,2 +1,2 @@
-echo "This is ${nexususer}"
-mkdir /tmp/${nexuspassword}
+echo "This is {{nexususer}}"
+mkdir /tmp/{{nexuspassword}}
